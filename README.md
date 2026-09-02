@@ -50,12 +50,9 @@ I enjoy building projects, solving programming problems, and continuously improv
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nissumoncode&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nissumoncode&layout=compact&hide_border=true" height="170" />
-</p>
+|                                                    GitHub Stats                                                   |                                                    Most Used Languages                                                   |
+| :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nissumoncode\&show_icons=true\&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nissumoncode\&layout=compact\&theme=default) |
 
 ---
 
@@ -222,6 +219,5 @@ These projects were created for **educational and learning purposes**.
 **GitHub:** [@nissumoncode](https://github.com/nissumoncode)
 
 **Email:** [nissumon13@gmail.com](mailto:nissumon13@gmail.com)
-
 
 
