@@ -1,126 +1,126 @@
 # Hi 👋, I'm Nafiz Iqbal Sumon
-### 🔭 I'm learning to build things with JavaScript, React, and Node.js
+
+### 🚀 Aspiring Full-Stack Developer | Learning by Building
+
+I'm currently learning **JavaScript, TypeScript, React, and Node.js** and building projects to strengthen my development and problem-solving skills.
+
+I enjoy building projects, solving programming problems, and continuously improving my development skills through hands-on practice.
+
+🎯 **Goal:** Become a skilled Full-Stack Developer and turn my ideas into real-world projects.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a beginner programmer currently learning and exploring the world of software development. I enjoy building projects, solving problems, and continuously improving my programming skills through hands-on practice.
-
-Currently, I'm focused on learning **JavaScript**, **TypeScript**, **React**, and **Node.js**, while exploring modern development tools and technologies. My goal is to become a skilled Full-Stack Developer and turn my ideas into real-world projects!
+* 🌱 Currently learning **JavaScript, TypeScript, React & Node.js**
+* 💻 Building projects to improve my development skills
+* 🧠 Practicing programming fundamentals and problem solving
+* 🔍 Exploring modern development tools and technologies
+* 🚀 Working toward becoming a **Full-Stack Developer**
+* 💡 Interested in turning ideas into practical software projects
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### 🌐 Web Development
-HTML5 · CSS3 · JavaScript
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### 📚 Currently Learning
-TypeScript · React · Node.js
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
 ### 🔧 Tools
-Git · GitHub · VS Code
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
 ---
 
 ## 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/md.sumon.484761)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:nissumon13@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/md.sumon.484761)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nissumon13@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nissumoncode&show_icons=true&hide_border=true&rank_icon=github) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nissumoncode&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nissumoncode&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nissumoncode&layout=compact&hide_border=true" height="170" />
+</p>
+
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=nissumoncode&style=flat-square)
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=nissumoncode\&style=flat-square)
+
+---
 
 # 📚 My Programming Assignments
 
-A collection of my JavaScript and TypeScript programming assignments and problem-solving practice.
+A collection of my **JavaScript and TypeScript programming assignments and problem-solving practice**.
+
+These projects are part of my software development learning journey and focus on strengthening programming fundamentals, logical thinking, and practical coding skills.
 
 ---
 
-## Table of Contents
+## 📌 Assignments
 
-* [About the Project](#about-the-project)
-* [Project Overview](#project-overview)
-* [Key Features](#key-features)
-* [Tech Stack](#tech-stack)
-* [Dependencies](#dependencies)
-* [Installation & Setup](#installation--setup)
-* [Folder Structure](#folder-structure)
-* [Contributions](#contributions)
-* [How to Contribute](#how-to-contribute)
-* [License](#license)
-* [Contact](#contact)
+| Assignment       | Language   | Main Focus                       |
+| ---------------- | ---------- | -------------------------------- |
+| 📘 Assignment-03 | JavaScript | JavaScript & ES6 Problem Solving |
+| 📗 Assignment-04 | TypeScript | TypeScript & Type Safety         |
 
 ---
 
-## About the Project
-
-This repository contains my programming assignments created as part of my software development learning journey.
-
-The assignments focus on improving my programming fundamentals, logical thinking, and problem-solving skills through practical coding exercises.
-
-### 📘 Assignment-03
+## 📘 Assignment-03 — JavaScript
 
 Assignment-03 focuses on **JavaScript programming and problem solving**.
 
-I practiced JavaScript fundamentals, ES6 syntax, functions, arrays, objects, conditions, loops, and logical problem solving.
+### Topics Practiced
 
-### 📗 Assignment-04
+* JavaScript fundamentals
+* ES6 syntax
+* Functions
+* Arrays
+* Objects
+* Conditions
+* Loops
+* Logical problem solving
+
+---
+
+## 📗 Assignment-04 — TypeScript
 
 Assignment-04 focuses on **TypeScript programming and problem solving**.
 
-I practiced TypeScript fundamentals, type safety, functions, arrays, objects, conditions, loops, and problem-solving.
+### Topics Practiced
+
+* TypeScript fundamentals
+* Type safety
+* Functions
+* Arrays
+* Objects
+* Conditions
+* Loops
+* Problem solving
 
 ---
 
-## Project Overview
+## 💻 Tech Stack
 
-This repository contains two programming assignments:
+**Languages:** JavaScript · TypeScript
 
-| Assignment    | Language   | Main Focus                       |
-| ------------- | ---------- | -------------------------------- |
-| Assignment-03 | JavaScript | JavaScript & ES6 Problem Solving |
-| Assignment-04 | TypeScript | TypeScript & Type Safety         |
-
-These assignments are part of my continuous learning process as I work toward becoming a skilled Full-Stack Developer.
-
----
-
-## Key Features
-
-### Assignment-03 — JavaScript
-
-* JavaScript problem solving
-* ES6 syntax practice
-* Functions and reusable logic
-* Array and Object handling
-* Conditions and Loops
-* Logical thinking practice
-
-### Assignment-04 — TypeScript
-
-* TypeScript problem solving
-* Type-safe programming
-* Functions and reusable logic
-* Array and Object handling
-* Conditions and Loops
-* Logical thinking practice
-
----
-
-## Tech Stack
-
-**Assignment-03:** JavaScript · ES6
-
-**Assignment-04:** TypeScript
+**Web:** HTML5 · CSS3
 
 **Concepts:** Functions · Arrays · Objects · Conditions · Loops · Type Safety · Problem Solving
 
@@ -128,81 +128,61 @@ These assignments are part of my continuous learning process as I work toward be
 
 ---
 
-## Dependencies
+## ⚙️ Setup & Installation
 
 ### Assignment-03
 
-No external libraries or frameworks are required.
-
-**Runtime:** Node.js
-
-### Assignment-04
-
-TypeScript is used to compile the TypeScript source code.
-
-```json
-{
-  "typescript": "^7.0.2"
-}
-```
-
----
-
-## Installation & Setup
-
-### Assignment-03
-
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/nissumoncode/assignment-03.git
 cd assignment-03
 ```
 
-2. Run a JavaScript file:
+Run a JavaScript file:
 
 ```bash
 node filename.js
 ```
 
-> Replace `filename.js` with the JavaScript file you want to run.
+Replace `filename.js` with the JavaScript file you want to run.
 
 ---
 
 ### Assignment-04
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/nissumoncode/assignment-04.git
 cd assignment-04
 ```
 
-2. Install dependencies:
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-3. Compile TypeScript:
+Compile TypeScript:
 
 ```bash
 npx tsc
 ```
 
-4. Run the compiled JavaScript:
+Run the compiled JavaScript:
 
 ```bash
 node dist/filename.js
 ```
 
-> Replace `filename.js` with the compiled JavaScript file you want to run.
+Replace `filename.js` with the compiled JavaScript file you want to run.
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
 
-```plaintext
+```text
 Programming-Assignments/
 │
 ├── assignment-03/
@@ -223,27 +203,21 @@ Programming-Assignments/
 
 ---
 
-## Contributions
+## 🤝 Contributions
 
-These assignments are individual learning projects created as part of my programming practice.
+These are individual learning projects created as part of my programming practice.
 
----
-
-## How to Contribute
-
-These projects are mainly created for learning and practice purposes.
-
-If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+Suggestions, improvements, and constructive feedback are welcome.
 
 ---
 
-## License
+## 📄 License
 
-These projects were created for educational and learning purposes.
+These projects were created for **educational and learning purposes**.
 
 ---
 
-## Contact
+## 📬 Contact
 
 **GitHub:** [@nissumoncode](https://github.com/nissumoncode)
 
